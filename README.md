@@ -13,7 +13,7 @@ Actualmente me encuentro trabajando en el desarrollo de un prototipo de una plat
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyosuporte&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@guduvtxrkc)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=guduvtxrkc)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
