@@ -15,9 +15,6 @@ Actualmente me encuentro trabajando en el desarrollo de un prototipo de una plat
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=guduvtxrkc)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Hyosuporte&icon=0&color=0)](https://visitcount.itsvg.in)
 
