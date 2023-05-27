@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actualmente me encuentro trabajando en el desarrollo de un prototipo de una plataforma de crowdfunding para apoyar los emprendimientos de las mujeres. Además, tengo un gran interés en el estudio de diferentes lenguajes relacionados con el desarrollo de back-end y software. Mi objetivo a largo plazo es trabajar en la optimización de aplicaciones y en la seguridad cibernética.
+Actualmente me encuentro finalizando mis estudios en Sistematizacion de Datos. Además, tengo un gran interés en el estudio de diferentes lenguajes relacionados con el desarrollo de back-end y software. Mi objetivo a largo plazo es trabajar en la optimización de aplicaciones y en la seguridad cibernética.
 
 
 ## 🌐 Socials:
